@@ -1,0 +1,13 @@
+# Python permite el tipado dinámico
+
+'''
+Esto es un comentario multilínea:
+Un tipado dinámico es que una misma variable puede contener
+diferentes tipos de datos a lo largo del programa.
+'''
+
+valor = 10
+print(valor)
+
+valor = "Erick"
+print(valor)
